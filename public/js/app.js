@@ -1,5 +1,3 @@
-
-
 const form = document.querySelector('form')
 const search = document.querySelector('input') 
 const p1 = document.querySelector('#p1')
